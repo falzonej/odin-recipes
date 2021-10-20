@@ -1,1 +1,2 @@
 # odin-recipes
+This project will follow the guidlines laid out for organization and construction of the recipe project in TOP. Once completed I will have demonstrated my abilities to use html to push unstyled information to a webapge, then in the next section I believe I will be coming back to place styling on the page. (This will also likely display how poor my spelling is as I noticed I don't have a spell check extension of any type on here =D)
