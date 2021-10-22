@@ -1,0 +1,40 @@
+* {
+    background-color: slategray;
+}
+
+#image{
+    text-align: center;
+
+}
+
+#header{
+    color: #85144b;
+    font-size: 48px;
+    text-align:center;
+}
+
+.descriptheader{
+    text-align: center;
+    font-size:36px;
+    color: yellow;
+}
+
+.description{
+    
+    color:orangered;
+    background-color:purple;
+}
+
+.ingredients{
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:orchid;
+    background-color:palegoldenrod;
+}
+
+.steps{
+   
+    background-color:limegreen;
+    color: blueviolet;
+    text-align: left;
+}
