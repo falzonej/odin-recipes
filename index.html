@@ -3,14 +3,27 @@
   <head>
     <title>Recipes Homepage</title>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css" />
   </head>
-  <h1>Who's Ready To Eat BABY!</h1>
+
+  <style>
+
+  * { background-color:seagreen };
+
+  </style>
+
+  <h1 class="header">
+    Who's Ready To Eat BABY!
+  </h1>
 
   <body>
     <ol>
-      <li><a href="recipes/lasagna.html">Lasagna</a></li>
-      <li><a href="recipes/macandcheese.html">Mac & Cheese!</a></li>
-      <li><a href="recipes/carneasada.html">Carne Asada</a></li>
+      <li class="links" id="las-link"><a href="recipes/lasagna.html">Lasagna</a></li>
+      <div class="images"><img src="cover-images/lasagna-cover.png" id="las-img"></div>
+      <li class="links" id="mac-link"><a href="recipes/macandcheese.html">Mac & Cheese!</a></li>
+      <div class="images"><img src="cover-images/mac-cover.jpg" id="mac-img"></div>
+      <li class="links" id="carne-link"><a href="recipes/carneasada.html">Carne Asada</a></li>
+      <div class="images"><img src="cover-images/carne-cover.jpg" id="carne-img"></div>
     </ol>
   </body>
-</html>
+</html> 
