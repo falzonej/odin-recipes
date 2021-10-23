@@ -1,0 +1,101 @@
+#title{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.imagediv{
+    text-align:center;
+}
+
+#image{
+    height: 600px;
+    width: 500px;
+}
+
+#meat{
+    color:brown;
+}
+
+.juice, .section2, .section3{
+    color:orange;
+}
+
+.oil, .section2, .section3{
+    color: olivedrab;
+}
+
+.spices, .section2 .section3{
+    color:firebrick;
+}
+
+.section1{
+    font-size:32px;
+    font-family: monospace;
+}
+
+.section1,
+.header{
+    text-align:center;
+    color:saddlebrown;
+}
+
+#script{
+    color:seagreen;
+    background-color: grey;
+}
+
+.section2{
+    color:black;
+}
+
+.header,
+.section2{
+    font-size: 24px;
+    text-align:center;
+}
+
+.script,
+.section2{
+    font-size: 20px;
+}
+
+.ingred,
+.section2{
+    text-align:left;
+}
+
+.section4{
+    font-style: oblique;
+    color:crimson;
+    font-size: 20px;
+}
+
+.temps,
+#tempheader
+{
+    font-size:30px;
+    color:darkblue;
+}
+.temps,
+#rare
+{
+    color:maroon;
+}
+.temps,
+#mr{
+    color:mediumaquamarine;
+}
+.temps,
+#medium{
+    color:orchid;
+}
+.temps,
+#mw{
+    color:purple
+}
+.temps,
+#burnt{
+    color:black;
+}
