@@ -1,0 +1,37 @@
+* {background-color:tomato}
+
+#title{
+    text-align: center;
+    color:yellow;
+    font-size: 80px;
+}
+
+#image{
+    text-align: center;
+}
+
+#header{
+    font-size: 36px;
+    color:yellow;
+}
+
+#descript{
+    font-size: 22px;
+    width: 500px;
+}
+
+#pot{
+    font-size: 34px;
+    color:white;
+}
+
+.ingredients{
+    text-align: center;
+    font-size: 22px;
+}
+
+.steps{
+    text-align: center;
+    color: blue;
+    font-size: 18px;
+}
